@@ -1,4 +1,4 @@
-# chlgexample
+# changelog-starter
 
 Template for recording changes in the project:
 
