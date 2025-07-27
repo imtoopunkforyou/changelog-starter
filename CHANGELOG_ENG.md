@@ -15,7 +15,7 @@ Change blocks:
 |   Fixed        | Bug fixed.                                                                     |
 |   Security     | Vulnerability was identified.                                                  |
 
-[WIP]
+## [WIP]
 
 ### Added
 
